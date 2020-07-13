@@ -34,6 +34,11 @@ My portfolio page is [jasongoossens.be](https://jasongoossens.be).  It has:
 - :wrench: link to a couple of projects
 - :envelope: how to contact me
 
+### What I'm planning
+- make my portfolio site impress (cause it's a bit bland right now...)
+- add interesting (and worthwhile) projects (anyone can upload a tutorial)
+- expand my knowledge of C#, Node, and React
+
 <!--
 **jasongoossens/jasongoossens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
