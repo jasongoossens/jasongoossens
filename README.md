@@ -35,8 +35,9 @@ My portfolio page is [jasongoossens.be](https://jasongoossens.be).  It has:
 - :envelope: how to contact me
 
 ### What I'm planning
+- add all projects to Github (with back-ends) and host them
 - make my portfolio site impress (cause it's a bit bland right now...)
-- add interesting (and worthwhile) projects (anyone can upload a tutorial)
+- add interesting (and worthwhile) projects (anyone can make and upload a tutorial)
 - expand my knowledge of C#, Node, and React
 
 <!--
