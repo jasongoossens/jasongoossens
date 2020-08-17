@@ -12,7 +12,6 @@ The technologies I'm comfortable working with are (and will expand in time):
 **Languages**
 - JavaScript
 - PHP
-- C#
 
 **Other**
 - HTML, CSS, and jQuery
@@ -24,7 +23,7 @@ The technologies I'm comfortable working with are (and will expand in time):
 
 You'll find a few basic projects here, probably centered around food, working out, and other things that interest me, and where I'm using technology to automate the boring stuff, give me an edge, or just try something new...
 
-At the moment I'm hosting some of them on Firebase, and some on a Rapsberry Pi here at home (which explains the fact that some projects have regular downtime - the Pi is probably just unplugged)
+At the moment I'm hosting some of them on Firebase or Heroku, and some on a Rapsberry Pi here at home (which explains the fact that some projects have regular downtime - the Pi is probably just unplugged)
 
 ### Where you can see it all (with fancy styling)
 
@@ -38,7 +37,7 @@ My portfolio page is [jasongoossens.be](https://jasongoossens.be).  It has:
 - add all projects to Github (with back-ends) and host them
 - make my portfolio site impress (cause it's a bit bland right now...)
 - add interesting (and worthwhile) projects (anyone can make and upload a tutorial)
-- expand my knowledge of C#, Node, and React
+- expand my knowledge of C# and Node
 
 <!--
 **jasongoossens/jasongoossens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
