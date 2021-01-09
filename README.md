@@ -9,7 +9,7 @@ In 2016 I decided to switch careers and do something that was genuinly interesti
 ### What I do
 Well... Programming, of course.
 
-The technologies I'm comfortable working with are (and will expand in time):
+### The technologies I'm comfortable working with are (and will expand in time):
 
 **Languages**
 - JavaScript
