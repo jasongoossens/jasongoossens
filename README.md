@@ -12,8 +12,9 @@ Well... Programming, of course.
 ### The technologies I'm comfortable working with are (and will expand in time):
 
 **Languages**
-- JavaScript
 - PHP
+- JavaScript
+
 
 **Other**
 - Symfony
