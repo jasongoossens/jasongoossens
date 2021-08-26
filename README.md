@@ -2,7 +2,7 @@
 
 ### Who I am
 
-I'm a fullstack developer, living in Antwerp, Belgium, and this is my Github.  After high school I eventually found my way into accounting, doing that for about 12 years for a number of smaller and larger companies in Antwerp.
+I'm a fullstack PHP developer, living in Antwerp, Belgium, and this is my Github.  After high school I eventually found my way into accounting, doing that for about 12 years for a number of smaller and larger companies in Antwerp.
 
 In 2016 I decided to switch careers and do something that was genuinly interesting and challenging to me, so I started studying programming.  I'm a junior at the moment, focusing a a limited number of technologies in order to get a grasp on all aspects of them.
 
@@ -16,8 +16,10 @@ Well... Programming, of course.
 - PHP
 
 **Other**
+- Symfony
+- WordPress & WooCommerce customization
+- API integration
 - HTML, CSS, and jQuery
-- Node
 - React
 - MySQL
 
@@ -35,11 +37,10 @@ My portfolio page is [jasongoossens.be](https://jasongoossens.be).  It has:
 - :wrench: link to a couple of projects
 - :envelope: how to contact me
 
-### What I'm planning
-- add all projects to Github (with back-ends) and host them
+### What I'm doing/planning to do
 - make my portfolio site impress (cause it's a bit bland right now...)
 - add interesting (and worthwhile) projects (anyone can make and upload a tutorial)
-- expand my knowledge of C# and Node
+- expand my knowledge of Symfony
 
 <!--
 **jasongoossens/jasongoossens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
