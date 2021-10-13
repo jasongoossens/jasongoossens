@@ -21,7 +21,6 @@ Well... Programming, of course.
 - WordPress & WooCommerce customization
 - API integration
 - HTML, CSS, and jQuery
-- React
 - MySQL
 
 ### What I've made
