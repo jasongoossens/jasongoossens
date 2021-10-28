@@ -2,9 +2,9 @@
 
 ### Who I am
 
-I'm a fullstack PHP developer, living in Antwerp, Belgium, and this is my Github.  After high school I eventually found my way into accounting, doing that for about 12 years for a number of smaller and larger companies in Antwerp.
+I'm a fullstack PHP developer, living in Antwerp, Belgium, and this is my Github.  After high school I eventually found my way into accounting.  I did that for about 12 years for a number of big and small companies in Antwerp.
 
-In 2016 I decided to switch careers and do something that was genuinly interesting and challenging to me, so I started studying programming.  I'm a junior at the moment, focusing a a limited number of technologies in order to get a grasp on all aspects of them.
+In 2016 I decided to switch careers and do something that was genuinely interesting and challenging to me, so I started studying programming.  I'm a junior at the moment, focusing a a limited number of technologies in order to get a decent grasp on all aspects of them.
 
 ### What I do
 Well... Programming, of course.  Whaddya think I'm doing here?  Selling banana's?!
