@@ -7,7 +7,7 @@ I'm a fullstack PHP developer, living in Antwerp, Belgium, and this is my Github
 In 2016 I decided to switch careers and do something that was genuinly interesting and challenging to me, so I started studying programming.  I'm a junior at the moment, focusing a a limited number of technologies in order to get a grasp on all aspects of them.
 
 ### What I do
-Well... Programming, of course.
+Well... Programming, of course.  Whaddya think I'm doing here?  Selling banana's?!
 
 ### The technologies I'm comfortable working with are (and will expand in time):
 
