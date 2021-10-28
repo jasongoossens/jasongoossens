@@ -9,7 +9,7 @@ In 2016 I decided to switch careers and do something that was genuinly interesti
 ### What I do
 Well... Programming, of course.  Whaddya think I'm doing here?  Selling banana's?!
 
-### The technologies I'm comfortable working with are (and will expand in time):
+### What I know (this will expand in time):
 
 **Languages**
 - PHP
@@ -19,7 +19,7 @@ Well... Programming, of course.  Whaddya think I'm doing here?  Selling banana's
 **Other**
 - Symfony
 - WordPress & WooCommerce customization
-- API integration
+- API integrations
 - HTML, CSS, and jQuery
 - MySQL
 
