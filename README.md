@@ -23,12 +23,6 @@ Well... Programming, of course.  Whaddya think I'm doing here?  Selling banana's
 - HTML, CSS, and jQuery
 - MySQL
 
-### What I've made
-
-You'll find a few basic projects here, probably centered around food, working out, and other things that interest me, and where I'm using technology to automate the boring stuff, give me an edge, or just try something new...
-
-At the moment I'm hosting some of them on Firebase or Heroku, and some on a Rapsberry Pi here at home (which explains the fact that some projects have regular downtime - the Pi is probably just unplugged)
-
 ### Where you can see it all (with fancy styling)
 
 My portfolio page is [jasongoossens.be](https://jasongoossens.be).  It has:
@@ -36,11 +30,6 @@ My portfolio page is [jasongoossens.be](https://jasongoossens.be).  It has:
 - :page_facing_up: my CV
 - :wrench: link to a couple of projects
 - :envelope: how to contact me
-
-### What I'm doing/planning to do
-- make my portfolio site impress (cause it's a bit bland right now...)
-- add interesting (and worthwhile) projects (anyone can make and upload a tutorial)
-- expand my knowledge of Symfony
 
 <!--
 **jasongoossens/jasongoossens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
