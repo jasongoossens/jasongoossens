@@ -9,27 +9,29 @@ In 2016 I decided to switch careers and do something that was genuinely interest
 ### What I do
 Well... Programming, of course.  Whaddya think I'm doing here?  Selling banana's?!
 
-### What I know (this will expand in time):
+### What I know:
 
 **Languages**
 - Java
 - PHP
-- JavaScript
+- JavaScript/TypeScript
 
 
 **Other**
+- Spring
 - Symfony
 - WordPress & WooCommerce customization
 - API integrations
 - HTML, CSS, and jQuery
 - MySQL
+- PostgreSQL
 
 ### Where you can see it all (with fancy styling)
 
 My portfolio page is [jasongoossens.be](https://jasongoossens.be).  It has:
 - :book: a short description of my career
-- :page_facing_up: my CV
 - :wrench: link to a couple of projects
+- :brain: skills
 - :envelope: how to contact me
 
 <!--
